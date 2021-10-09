@@ -34,6 +34,10 @@ body{
         
         
     }
+
+    .nav__barra{
+        height: 100%;
+    }
     .nav__container-img{
         position:relative;
         margin: -35px auto ;
